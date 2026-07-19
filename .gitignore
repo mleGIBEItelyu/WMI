@@ -2,10 +2,8 @@
 .env
 
 # Reports: commit the JSON (it's the site's content / Vercel build input),
-# but ignore the local caches and rendered exports.
+# but ignore the local research/scoring caches.
 output/cache_*.json
-output/*.md
-output/*.html
 !output/.gitkeep
 
 # Generated static site (Vercel rebuilds it from the committed JSON)

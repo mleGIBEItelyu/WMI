@@ -1,7 +1,6 @@
-"""Renderer tests: Markdown and HTML output from a WeeklyMarketInsight."""
+"""Tests for the HTML report renderer used by the static site."""
 
-from web.render_html import to_html
-from web.render_markdown import to_markdown
+from web.render_html import report_body
 from schemas import (
     HighlightItem,
     KeyInsight,
@@ -42,55 +41,39 @@ def _report(needs_review=False, flags=None):
     )
 
 
-def test_markdown_contains_sections():
-    md = to_markdown(_report())
-    assert "# Weekly Market Insight" in md
-    assert "Impact on Indonesia" in md
-    assert "BI holds rate" in md
+def test_renders_core_sections():
+    html = report_body(_report())
+    assert "Weekly Market Insight" in html
+    assert "Major Headline" in html
+    assert "Weekly Highlights" in html
+    assert "Key Insight" in html
 
 
-def test_html_standalone_and_fragment():
-    r = _report()
-    full = to_html(r)
-    assert full.startswith("<!doctype html>")
-    assert "Weekly Market Insight" in full
-    # Model text must be escaped.
-    assert "<after>" not in full and "&lt;after&gt;" in full
-    assert "Impact on Indonesia" in full
-
-    frag = to_html(r, standalone=False)
-    assert not frag.startswith("<!doctype")
-    assert "<style>" in frag and "class=\"wmi\"" in frag
+def test_escapes_model_text():
+    html = report_body(_report())
+    assert "<after>" not in html
+    assert "&lt;after&gt;" in html
 
 
-def test_html_omits_empty_impact():
-    r = _report()
-    r.weekly_highlights[0].indonesia_impact = None
-    html = to_html(r)
-    assert "Impact on Indonesia" not in html
-
-
-def test_html_shows_provenance():
-    html = to_html(_report())
+def test_shows_provenance():
+    html = report_body(_report())
     assert "Full article" in html
     assert "Trusted source" in html
     assert 'href="https://tempo.co/a"' in html
     assert "View source" in html
 
 
-def test_html_review_banner_only_when_needed():
-    clean = to_html(_report(needs_review=False))
-    assert "Editorial review needed" not in clean
+def test_review_banner_only_when_needed():
+    assert "Editorial review needed" not in report_body(_report(needs_review=False))
 
-    flagged = to_html(
+    flagged = report_body(
         _report(needs_review=True, flags=["Conflicting figures for BI-Rate: 5.75%, 6.00%."])
     )
     assert "Editorial review needed" in flagged
     assert "Conflicting figures for BI-Rate" in flagged
 
 
-def test_markdown_shows_provenance_and_review():
-    md = to_markdown(_report(needs_review=True, flags=["Conflicting figures for BI-Rate."]))
-    assert "Full article" in md
-    assert "View source" in md
-    assert "Editorial review needed" in md
+def test_omits_empty_indonesia_impact():
+    r = _report()
+    r.weekly_highlights[0].indonesia_impact = None
+    assert "Impact on Indonesia" not in report_body(r)

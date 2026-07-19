@@ -1,10 +1,8 @@
-"""Render a WeeklyMarketInsight report as HTML.
+"""Render a WeeklyMarketInsight report as an HTML page for the static site.
 
-Two consumers:
-* ``to_html(report)`` — a single self-contained file (the ``--html`` CLI flag).
-  Everything is inlined, so it opens from disk and can be emailed as-is.
-* ``report_page(...)`` — a page for the generated static site, linking the shared
-  stylesheet/script and the archive nav (see ``site_builder.py``).
+``report_page(...)`` builds a full page (linked stylesheet/script + archive nav);
+``report_body(...)`` returns just the article markup. Both are used by
+``site_builder.py`` to generate the site.
 """
 
 from __future__ import annotations
@@ -206,18 +204,6 @@ def document(
 {tail_js}
 </body>
 </html>"""
-
-
-def to_html(report: WeeklyMarketInsight, standalone: bool = True) -> str:
-    """Self-contained report page (or bare fragment when ``standalone`` is False)."""
-    body = report_body(report)
-    if not standalone:
-        return f"<style>{CSS}</style>\n{body}\n<script>{THEME_TOGGLE_JS}</script>"
-    return document(
-        title=f"{SITE_TITLE} · {period_label(report)}",
-        description=truncate(report.major_headline.title, 155),
-        body=body,
-    )
 
 
 def report_page(

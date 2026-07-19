@@ -69,9 +69,6 @@ python main.py --end-date 2026-06-30 --days 7 --output output/test_run.json
 # iterate on the editorial stage WITHOUT spending research quota
 python main.py --end-date 2026-06-30 --days 7 --from-cache
 
-# also write a Markdown and/or standalone HTML report next to the JSON
-python main.py --days 7 --md --html
-
 # verbose (debug) logging + full traceback on error
 python main.py --days 7 -v
 ```
@@ -123,8 +120,7 @@ Or from the CLI: `npm i -g vercel && vercel --prod`.
 is the site's content; the `.md`/`.html` exports and caches are gitignored.)
 
 Any other static host works too: run `python build_site.py` locally and upload the
-`site/` folder. A single report can also be exported as one self-contained HTML file
-with `python main.py --days 7 --html` (everything inlined — emailable, opens from disk).
+`site/` folder.
 
 ## Automated weekly publishing (GitHub Actions)
 
@@ -241,10 +237,9 @@ logging_utils.py        rich logging
 
 agents/                 harvester, quant scorer, lead editor
 prompts/                system prompt templates (editable, not in code)
-web/                    front-end: renderers (md/html), shared assets, site builder
-docs/                   PROJECT_BRIEF.md (original spec), AUDIT.md (readiness audit)
-output/                 report JSON (committed) + local caches/exports (gitignored)
-tests/                  pytest suite (51 tests, fully offline)
+web/                    front-end: HTML renderer, shared assets, static-site builder
+output/                 report JSON (committed) + local caches (gitignored)
+tests/                  pytest suite (offline)
 ```
 
 ## Tests

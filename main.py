@@ -42,19 +42,6 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="Reuse the saved harvest+score+full-text for this window (skips re-harvest/re-fetch).",
     )
     parser.add_argument(
-        "--md",
-        "--markdown",
-        dest="markdown",
-        action="store_true",
-        help="Also write a human-readable Markdown report next to the JSON.",
-    )
-    parser.add_argument(
-        "--html",
-        dest="html",
-        action="store_true",
-        help="Also write a standalone HTML report (openable in any browser) next to the JSON.",
-    )
-    parser.add_argument(
         "--verbose",
         "-v",
         action="store_true",
@@ -112,23 +99,6 @@ def main(argv: list[str] | None = None) -> int:
     )
     log.info("Done. Output saved to: %s", output_path)
     print(str(output_path))
-
-    if args.markdown:
-        from web.render_markdown import to_markdown
-
-        md_path = output_path.with_suffix(".md")
-        md_path.write_text(to_markdown(report), encoding="utf-8")
-        log.info("Markdown report saved to: %s", md_path)
-        print(str(md_path))
-
-    if args.html:
-        from web.render_html import to_html
-
-        html_path = output_path.with_suffix(".html")
-        html_path.write_text(to_html(report), encoding="utf-8")
-        log.info("HTML report saved to: %s", html_path)
-        print(str(html_path))
-
     return 0
 
 

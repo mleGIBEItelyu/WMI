@@ -1,11 +1,8 @@
 # Keep the Vercel build lean: only the site generator + report JSON are needed.
 .env
 tests/
-docs/
 site/
 output/cache_*.json
-output/*.md
-output/*.html
 __pycache__/
 .pytest_cache/
 *.pyc
