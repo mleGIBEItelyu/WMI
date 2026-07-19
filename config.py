@@ -157,7 +157,7 @@ class Settings:
         return cls(
             api_key=api_key,
             news=AgentModelConfig(
-                model=_get("WMI_NEWS_MODEL", "gemini-2.5-flash"),
+                model=_get("WMI_NEWS_MODEL", "gemini-flash-latest"),
                 max_tokens=_get_int("WMI_NEWS_MAX_TOKENS", 12000),
                 temperature=_get_float("WMI_NEWS_TEMPERATURE", 0.3),
             ),
@@ -166,12 +166,12 @@ class Settings:
             # currently serves, so it survives deprecations. Blank disables fallback.
             news_fallback_model=_get("WMI_NEWS_FALLBACK_MODEL", "gemini-flash-lite-latest"),
             quant=AgentModelConfig(
-                model=_get("WMI_QUANT_MODEL", "gemini-2.5-flash"),
+                model=_get("WMI_QUANT_MODEL", "gemini-flash-latest"),
                 max_tokens=_get_int("WMI_QUANT_MAX_TOKENS", 4000),
                 temperature=_get_float("WMI_QUANT_TEMPERATURE", 0.2),
             ),
             editor=AgentModelConfig(
-                model=_get("WMI_EDITOR_MODEL", "gemini-2.5-flash"),
+                model=_get("WMI_EDITOR_MODEL", "gemini-flash-latest"),
                 max_tokens=_get_int("WMI_EDITOR_MAX_TOKENS", 2500),
                 temperature=_get_float("WMI_EDITOR_TEMPERATURE", 0.4),
             ),
