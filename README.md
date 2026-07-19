@@ -156,9 +156,9 @@ Highlights:
 
 | Variable | Default | Purpose |
 | --- | --- | --- |
-| `WMI_NEWS_MODEL` | `gemini-flash-latest` | Agent 1 model (Google Search grounding) |
-| `WMI_QUANT_MODEL` / `WMI_EDITOR_MODEL` | `gemini-flash-latest` | Agents 2 & 3 |
-| `WMI_NEWS_FALLBACK_MODEL` | `gemini-flash-lite-latest` | used if the news model hits a 429 |
+| `WMI_NEWS_MODEL` | `gemini-2.0-flash` | Agent 1 model (Google Search grounding) |
+| `WMI_QUANT_MODEL` / `WMI_EDITOR_MODEL` | `gemini-2.0-flash` | Agents 2 & 3 |
+| `WMI_NEWS_FALLBACK_MODEL` | `gemini-2.0-flash-lite` | used if the news model hits a 429 |
 | `WMI_MIN_ID_SHORTLIST` | 3 | guaranteed Indonesian stories read in full |
 | `WMI_MAX_LOW_HIGHLIGHTS` | 1 | more low-authority highlights than this → review flag |
 | `WMI_THINKING_BUDGET` | `0` | Gemini "thinking" tokens (0 = off: fast, no truncation) |

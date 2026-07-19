@@ -23,8 +23,8 @@ def test_defaults(clean_env):
     clean_env.setenv("GOOGLE_API_KEY", "AIza_test")
     s = Settings.from_env()
     s.validate()
-    assert s.news.model == "gemini-flash-latest"
-    assert s.quant.model == "gemini-flash-latest"
+    assert s.news.model == "gemini-2.0-flash"
+    assert s.quant.model == "gemini-2.0-flash"
     assert s.highlight_count == 6
     assert s.shortlist_count == 10
     assert s.min_valid_candidates == 8

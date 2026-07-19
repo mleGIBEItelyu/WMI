@@ -52,6 +52,12 @@ jobs:
       - name: Generate the weekly report
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          # Optional model overrides via repo Variables (Settings → Secrets and
+          # variables → Actions → Variables). Leave unset to use the defaults.
+          WMI_NEWS_MODEL: ${{ vars.WMI_NEWS_MODEL }}
+          WMI_QUANT_MODEL: ${{ vars.WMI_QUANT_MODEL }}
+          WMI_EDITOR_MODEL: ${{ vars.WMI_EDITOR_MODEL }}
+          WMI_NEWS_FALLBACK_MODEL: ${{ vars.WMI_NEWS_FALLBACK_MODEL }}
         run: |
           if [ -z "$GOOGLE_API_KEY" ]; then
             echo "::error::GOOGLE_API_KEY secret is not set. Add it under Settings → Secrets and variables → Actions."
