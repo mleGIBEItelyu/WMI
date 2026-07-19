@@ -1,0 +1,100 @@
+name: Weekly Market Insight
+
+# Mines the past 7 days of news and publishes a new issue.
+# Schedule: every Friday 22:00 Asia/Jakarta (WIB, UTC+7) = 15:00 UTC.
+# The committed report JSON is the site's content; pushing it triggers Vercel
+# to rebuild the front-end automatically.
+
+on:
+  schedule:
+    - cron: "0 15 * * 5"
+  workflow_dispatch:
+    inputs:
+      end_date:
+        description: "End date YYYY-MM-DD (blank = today, in the runner's UTC clock)"
+        required: false
+        default: ""
+      days:
+        description: "Days of news to cover"
+        required: false
+        default: "7"
+
+# Allow the job to commit the generated report back to the repo.
+permissions:
+  contents: write
+
+# Never let two mining runs overlap (they'd fight over the commit).
+concurrency:
+  group: weekly-insight
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      DAYS: ${{ github.event.inputs.days || '7' }}
+      END_DATE: ${{ github.event.inputs.end_date || '' }}
+      VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install pipeline dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate the weekly report
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          if [ -z "$GOOGLE_API_KEY" ]; then
+            echo "::error::GOOGLE_API_KEY secret is not set. Add it under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          if [ -n "$END_DATE" ]; then
+            python main.py --end-date "$END_DATE" --days "$DAYS" -v
+          else
+            python main.py --days "$DAYS" -v
+          fi
+
+      - name: Commit & push the new issue
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/weekly_insight_*.json
+          if git diff --staged --quiet; then
+            echo "No new or changed report — nothing to publish."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore(report): weekly market insight $(date -u +%Y-%m-%d)"
+            git push
+            echo "published=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Optional: only runs if you add a Vercel Deploy Hook secret. If your repo is
+      # connected to Vercel via Git, the push above already redeploys and this is
+      # unnecessary.
+      - name: Trigger Vercel deploy hook (optional)
+        if: ${{ steps.commit.outputs.published == 'true' && env.VERCEL_DEPLOY_HOOK != '' }}
+        run: |
+          curl -sS -X POST "$VERCEL_DEPLOY_HOOK" > /dev/null
+          echo "Vercel deploy hook triggered."
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "### Weekly Market Insight"
+            if [ "${{ steps.commit.outputs.published }}" = "true" ]; then
+              echo "✅ New issue published — Vercel will redeploy the front-end."
+            else
+              echo "ℹ️ No new issue committed this run."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

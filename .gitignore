@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Reports: commit the JSON (it's the site's content / Vercel build input),
+# but ignore the local caches and rendered exports.
+output/cache_*.json
+output/*.md
+output/*.html
+!output/.gitkeep
+
+# Generated static site (Vercel rebuilds it from the committed JSON)
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

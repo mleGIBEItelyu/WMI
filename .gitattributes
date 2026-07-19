@@ -1,0 +1,14 @@
+# Normalise line endings: store LF in the repo so Linux CI / GitHub Actions
+# (and the workflow shell scripts) never see stray CRLF from Windows checkouts.
+* text=auto eol=lf
+
+*.py    text eol=lf
+*.md    text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.txt   text eol=lf
+*.toml  text eol=lf
+*.css   text eol=lf
+*.js    text eol=lf
+*.html  text eol=lf

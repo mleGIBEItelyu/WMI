@@ -1,0 +1,5 @@
+# Minimal deps to BUILD THE STATIC SITE only (used by Vercel).
+# The AI pipeline deps (google-genai, trafilatura, httpx) are NOT needed here —
+# the site is generated from the committed report JSON in output/.
+pydantic>=2.0
+python-dotenv>=1.0
