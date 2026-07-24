@@ -1,0 +1,84 @@
+{
+  "period_start": "2026-07-17",
+  "period_end": "2026-07-24",
+  "weekly_highlights": [
+    {
+      "title": "Oil Prices Surge Past $100 Amid Escalating Middle East Conflict, Global Shares Slide",
+      "date": "2026-07-24",
+      "summary": "Brent Crude prices surged above $100 per barrel for the first time in two months, rising sharply from $95 the previous day, due to escalating Middle East conflict and threats to Saudi oil exports. This renewed inflation fears and led to a decline in global equity markets, with the Nasdaq falling over 2%.",
+      "source": "The Guardian",
+      "indonesia_impact": "Oil prices above $100/barrel will significantly increase Indonesia's fuel subsidy costs, potentially widening the budget deficit and fueling domestic inflation, which could pressure the Rupiah and lead to higher SBN yields.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGycCCcP_1Gs57jgfP4OeZv91Ix-JfGJ2qZpjvrcCT7TWmKuxgcoPHVIc3jkk2sEvLpNNjLGUMDNVG0_k4E0NGl-0MscUA01n7DaglTfu3gP8BRrhJ0QvdpxHXSg45Q1bJkhdlvdYk7PXKagQ9A8QDeqOnWkR3TwCxhi5QC8Lj9fpj8kdLIv2Le3vp91cri6j9LHAHLseTTn_h7AsaPF6gYqOVtmiybNQe-5EL4J4DAgA0=",
+      "sourced_from": "full_article",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Gold Price Defends $4,000 as Brent Hits $100 and September Fed Hike Odds Jump to 80%",
+      "date": "2026-07-24",
+      "summary": "Gold (XAU/USD) traded around $4,028, struggling to hold the $4,000 psychological floor, as Brent Crude surpassed $100/barrel and the probability of a September Fed rate hike increased to 80%. Geopolitical tensions driving oil prices are paradoxically hurting gold by increasing inflation expectations, Treasury yields, and the dollar.",
+      "source": "FXLeaders",
+      "indonesia_impact": "Rising Brent Crude prices will increase Indonesia's fuel subsidy burden and accelerate domestic inflation. Higher Fed rate hike odds could lead to IDR depreciation and capital outflows from Indonesian bonds and equities, impacting the IHSG.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtFCt66wi4M_-WUc3q-4h6Lnv1GUwpMOo_YooNjfSn4GAM641MZ3pqz62TiDmq3465gWMmjNbaxkd_DuyludPJgVLkV-VkGNT_DiBE12G2saxYs16f76fIZZLu9SXGiY0tLo-o4Fi2gBsA5QMGM_F8Es20oKKFAAJ-t5hYx9Jqz9h3UkCTlk6p1thKqU1DehNy7-aRKe-XkRM-H_SAS4PDxkoFdYhKXUTdLILLh4ObhOMF0jDhu0rWpTmRie5fuWQq3Rqb3XN1V620nSTQeD_6J55BbUPqHAURMZ7iZShdaA==",
+      "sourced_from": "full_article",
+      "source_tier": "low"
+    },
+    {
+      "title": "Bank Indonesia Holds BI-Rate at 5.75%, Offers Incentives to Bolster Rupiah",
+      "date": "2026-07-23",
+      "summary": "Bank Indonesia (BI) unexpectedly maintained its BI-Rate at 5.75%, defying market expectations of a 25-bps hike, while keeping Deposit Facility at 4.75% and Lending Facility at 6.50%. BI also announced expanded incentive policies to attract foreign portfolio investment and strengthen Rupiah stability amidst external pressures.",
+      "source": "Bank Indonesia",
+      "indonesia_impact": "Maintaining the BI-Rate at 5.75% directly impacts domestic borrowing costs and aims to stabilize the Rupiah. Incentive policies are designed to attract foreign portfolio investment, directly affecting IDR strength and SBN demand.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM4lm_qa9J2loKVnyyTjoBV4aNDi1ORfPdBsiZ_8UjymDOg-uUgF31VaX4Kf67B1vyLek2-pS0Mx8u4bQCiymtOZ8A7cE57ZHnosuK4GjPXFLWU7OmaybrH_Vbyvzume1npjP1xdxx9E2sp-W6W1y9FbMZ2medWMyEok-CZ7jR4cCToU2hM3XD8LQLvQWuMDJUqw_dwDaIjkQxcw3e9lk=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "ECB Holds Rates Steady at 2.25%, Signals Potential September Hike Amid Inflation Concerns",
+      "date": "2026-07-23",
+      "summary": "The European Central Bank (ECB) kept its key interest rates unchanged at 2.25%, despite renewed escalation in the Middle East driving energy prices higher. However, ECB President Lagarde kept a September hike on the table, stating inflation concerns are tilted to the upside, leading markets to price in higher probability for a September rate increase.",
+      "source": "Morningstar Nordics",
+      "indonesia_impact": "While not directly impacting Indonesia, a hawkish ECB stance could contribute to global monetary tightening, potentially strengthening the Euro against the Rupiah and influencing overall global capital flows, indirectly affecting Indonesian markets and the IHSG.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjCeAEuR_k_acKu3jXAsDH9-tlevLuPKRTH4DpfsiDNbCmFFLOI_uZmKPCK9i-0ARu3CvRRU56hWRLpYNYRcheGF3adXyIhKQ-FmxeZv38AIjU49HRKrpWo3_NzlGL5EB_Lj1Q36R1if2u4-A7KtHL-9P-g_4byL6NPv5XS-m7MylGlDuKbxRxCEuBImA1tUppU60VbvDRmxVxzQvJEg==",
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "BOJ Expected to Maintain Policy Rate at 1.0% While Monitoring Inflation Risks",
+      "date": "2026-07-24",
+      "summary": "The Bank of Japan is expected to keep its policy interest rate at 1.0% at its upcoming meeting, following June's hike. Sources indicate the BOJ will maintain its warning over inflation risks, stemming from the Middle East conflict, robust AI demand, and a weak yen, but believes the likelihood of a severe supply disruption has diminished.",
+      "source": "WTVB",
+      "indonesia_impact": "A stable but hawkish BOJ stance, especially concerning inflation risks and a weak yen, could influence global carry trade dynamics and investor sentiment, indirectly affecting capital flows to Indonesia and the IDR.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWugKtNT4tklK-mByWvjLsLD3igrcacrD4--S6W7fSU7ecYO6E2-zyLM8twWmWWCwFcUWVbXJjLRLv_yifAbc4EgCDM8vFYy3kVV8t3GT1zqRncj9VC_M9gOJyFTzvaRm3_tefKhnofqkNTT6cWn6KeQ9YwkYj7PuXFDOu3V4=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Japan's Inflation Picks Up, Reinforcing BOJ's Path for Further Rate Hikes",
+      "date": "2026-07-24",
+      "summary": "Japan's core consumer price index (excluding fresh food) rose 1.6% year-on-year in June, marking the first pickup in three months and aligning with economist forecasts. This acceleration in inflation keeps the Bank of Japan on course for another interest-rate hike later this year.",
+      "source": "The Japan Times",
+      "indonesia_impact": "Rising inflation in Japan and the prospect of further BOJ rate hikes could strengthen the JPY, potentially impacting global capital flows and risk sentiment, which could indirectly affect the IDR and foreign investment flows into Indonesian assets.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz3rl-j1xsBuRvo6ZCRwyvphRVd73PCKCeeKlVObIJGfTUI8apuqjSkoW1xXa23eUCdQr2Z0VObmqzt2sgVAXtw4XDB8B-S00XOElQXe-eWTh1xrAAw0CECrIpS-tCrzhkc09h9yDMpiq04lIc70oOXCNmQjTK9r8zyMdpsi4C5bivH7OR5Yt1KfBgNMbCjRXt0g==",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    }
+  ],
+  "major_headline": {
+    "title": "Oil Prices Surge Past $100 Amid Escalating Middle East Conflict, Global Shares Slide",
+    "summary": "Brent Crude prices surged above $100 per barrel for the first time in two months, rising sharply from $95 the previous day, due to escalating Middle East conflict and threats to Saudi oil exports. This renewed inflation fears and led to a decline in global equity markets, with the Nasdaq falling over 2%.",
+    "source": "The Guardian",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGycCCcP_1Gs57jgfP4OeZv91Ix-JfGJ2qZpjvrcCT7TWmKuxgcoPHVIc3jkk2sEvLpNNjLGUMDNVG0_k4E0NGl-0MscUA01n7DaglTfu3gP8BRrhJ0QvdpxHXSg45Q1bJkhdlvdYk7PXKagQ9A8QDeqOnWkR3TwCxhi5QC8Lj9fpj8kdLIv2Le3vp91cri6j9LHAHLseTTn_h7AsaPF6gYqOVtmiybNQe-5EL4J4DAgA0=",
+    "sourced_from": "full_article",
+    "source_tier": "tier1"
+  },
+  "key_insight": {
+    "summary": "This week's market dynamics underscore a challenging environment for Indonesia, primarily driven by the surge in Brent Crude prices above $100/barrel due to escalating Middle East tensions. This directly impacts Indonesia by increasing the fuel subsidy burden, potentially widening the budget deficit, and accelerating domestic inflation, which could pressure the Rupiah and lead to higher SBN yields. Concurrently, the increased probability of a September Fed rate hike to 80% could trigger capital outflows from Indonesian bonds and equities, further weakening the IDR. While Bank Indonesia maintained its BI-Rate at 5.75% to stabilize the Rupiah and attract foreign portfolio investment, the global hawkish monetary policy stance from major central banks like the ECB (signaling a potential September hike) and the BOJ (monitoring inflation risks for further hikes) suggests continued global tightening. This divergence between BI's hold and global tightening, coupled with rising commodity prices, creates a complex landscape for Indonesian investors, necessitating vigilance on inflation, Rupiah stability, and foreign capital flows affecting the IHSG.",
+    "source": "The Guardian, FXLeaders, Bank Indonesia, Morningstar Nordics, WTVB"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "1 highlight(s) rely on low-authority sources: FXLeaders.",
+    "3 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": false
+}
