@@ -1,0 +1,83 @@
+{
+  "period_start": "2026-07-24",
+  "period_end": "2026-07-31",
+  "weekly_highlights": [
+    {
+      "title": "US GDP Growth Slows to 1.5% in Q2 2026 Amid Deceleration in Economic Activity",
+      "date": "2026-07-30",
+      "summary": "The U.S. economy's real gross domestic product (GDP) advanced at an annual rate of 1.5% in the second quarter of 2026, a notable slowdown from the 2.1% increase recorded in the first quarter. This advance estimate from the U.S. Bureau of Economic Analysis indicates a significant deceleration in economic activity.",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "indonesia_impact": "A slowdown in US GDP growth could lead to reduced global demand, potentially impacting Indonesian exports of commodities and manufactured goods. It also influences global risk sentiment, affecting foreign portfolio flows into Indonesian bonds and equities (IHSG, SBN yields).",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "US Consumer Confidence Moderates in July, Present Situation Softens for Third Month",
+      "date": "2026-07-28",
+      "summary": "The Conference Board Consumer Confidence Index decreased by 1.4 points to 90.8 in July from an upwardly revised 92.2 in June. The Present Situation Index fell for a third consecutive month to 114.9, while the Expectations Index remained unchanged at 74.7. Consumers' appraisals of current business and labor market conditions softened, with little anticipated improvement in business conditions over the next six months.",
+      "source": "The Conference Board",
+      "indonesia_impact": "Weakening US consumer confidence can signal a potential slowdown in US economic activity, which could indirectly affect global demand and commodity prices, impacting Indonesia's export revenues and overall economic sentiment.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECfjRKP9cbBROXeQAtQI5qBnZV-9LKX5uhJPF5QMgLzfgITlwtJC9f0MqaX5qrYxvn45E92x62LVdp38AvPWhSquaalXFTMr9t0com1iR-b3JlZYBIpNstgiZcuHvEwRVuCCwrZJS59pgj4JBBvrnv0GModDlg2Q==",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Bank of Japan Holds Policy Rate at 1.0%, Cuts Fiscal 2026 Inflation Forecast",
+      "date": "2026-07-31",
+      "summary": "The Bank of Japan (BoJ) maintained its policy interest rate at 1.0% in July 2026, a decision supported by an 8-1 majority, with one board member dissenting for a 1.25% hike. Concurrently, the BoJ lowered its inflation forecast for fiscal 2026, excluding fresh food, to 2.3%-2.7% from the previous 2.8%-3% range, signaling a less inflationary outlook.",
+      "source": "Anadolu Ajansı",
+      "indonesia_impact": "The BoJ's decision to hold rates and cut inflation forecasts could influence global risk appetite and currency markets, which might indirectly affect the IDR and foreign investment flows into Indonesia, especially if it signals a divergence from other major central banks.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGidsW5HoPlRZRmsPxWA9MK-y78VJ8_oyojf_qnyr94G4Lqn8AwdfvsN-m9kMF2vwNsTxZhQlAjELMlxHf65WP7VZDcUmNjdCZRn1Tgqxw3oVLEzVKxbGrnbstGsCJ4UFREUBpfw8sGB7NDtuinsnGGy3cpTASZ-MVaqO1dXl-D4f3BuHAb9uullrJzXwPanieKRVL7lH8TxsQTsLk5yJZS",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "EU Adopts 21st Sanctions Package Against Russia and Belarus, Targeting Key Sectors",
+      "date": "2026-07-27",
+      "summary": "The European Union adopted its 21st sanctions package against Russia and Belarus on July 23, 2026, significantly expanding the existing regime. This package, which includes 218 designations, targets financial infrastructure, crypto-asset channels, energy revenues, military-industrial supply chains, and circumvention pathways, representing the largest round of designations in four years.",
+      "source": "Eversheds Sutherland",
+      "indonesia_impact": "Expanded EU sanctions could lead to increased volatility in global energy markets and supply chains, potentially affecting Indonesia's commodity prices (like CPO, coal) and overall trade balance due to shifts in global demand and supply.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcE7dLzU41K1u3OnLmP5uabTgNQE-GEwOapyYumIlUsHcnZn4Kg_FrNpm3AhIfMFevP-Sngq6QaJjg-ArAA5mdWo05hkB6VA0DV5NZLpNeA97uhP8FMztHBfu9Tg6XFQZ5QqGznXw9PO-JpgO20SVmmtO3Gxe6DOD6JzTrdzIMCXrCoslgFxgaj-XEUtw5ajOVcqE2QAREAYl63e3EtQ5f4tJ97dLwAx_uDdHeYlD640DJJoYgmwHDnA==",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "University of Michigan Consumer Sentiment Rises in July, but Remains Downbeat Year-on-Year",
+      "date": "2026-07-31",
+      "summary": "US consumer sentiment, as measured by the University of Michigan Surveys of Consumers, rose almost 12% to 55.2 in July, marking its second consecutive monthly increase. Despite these recent gains, sentiment remains 11% below a year ago, reflecting a generally downbeat view of the economy amid elevated inflation and persistent high prices.",
+      "source": "University of Michigan News",
+      "indonesia_impact": "Improved US consumer sentiment, even if still downbeat year-on-year, could support global demand. However, persistent high prices in the US could imply continued hawkish Fed policy, influencing the IDR and foreign capital flows to Indonesia.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwmRx0y3lYpm03Chwbf_IFFT4a_vJZAA1n-YEantSD_pS2DEm2P47nryUnsdC7WjczAm5juGuQsY8YYHa7RoWb_fX_Kf8CMOURuzpNwPpq2BWav8yg9D2upqs8fR1Ld6_I0e5hr1tp6jey9wv3MjKP_YqGJqK9CIuc6ISThYmh0dBzIevq7mY8qkqQb7QhNJ0Iim_AkYC6Tmbz9YVsN6QhnDJQiBAGk2RKFy9GOw==",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Gold Under Selling Pressure as Markets Anticipate Restrictive Fed Monetary Policy",
+      "date": "2026-07-26",
+      "summary": "Gold (XAU/USD) entered the final week of July under renewed selling pressure, with investors anticipating the Federal Reserve to maintain a restrictive monetary policy. While geopolitical uncertainty and central bank demand provide long-term support, the short-term outlook remains cautious, with the critical $3,970 support level being closely watched.",
+      "source": "Fundoratrade",
+      "indonesia_impact": "While gold is a global safe-haven asset, its direct impact on the Indonesian economy is limited. However, a strong USD due to anticipated restrictive Fed policy could put depreciation pressure on the IDR, affecting import costs and foreign debt servicing.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    }
+  ],
+  "major_headline": {
+    "title": "US GDP Growth Slows to 1.5% in Q2 2026 Amid Deceleration in Economic Activity",
+    "summary": "The U.S. economy's real gross domestic product (GDP) advanced at an annual rate of 1.5% in the second quarter of 2026, a notable slowdown from the 2.1% increase recorded in the first quarter. This advance estimate from the U.S. Bureau of Economic Analysis indicates a significant deceleration in economic activity, signaling potential headwinds for global economic growth.",
+    "source": "U.S. Bureau of Economic Analysis (BEA)",
+    "url": null,
+    "sourced_from": "summary_only",
+    "source_tier": "tier2"
+  },
+  "key_insight": {
+    "summary": "The global economic landscape this week was largely shaped by a significant deceleration in US economic activity, with Q2 2026 GDP growth slowing to 1.5% from 2.1%. This slowdown, coupled with moderating US consumer confidence, suggests a potential weakening of global demand. For Indonesia, this implies a challenging environment for exports, particularly commodities, which could impact trade balance and overall economic growth. While the Bank of Japan held its policy rate and cut inflation forecasts, indicating a divergence from other major central banks, the persistent hawkish stance anticipated from the Federal Reserve, as implied by gold's selling pressure, could strengthen the US Dollar. A stronger DXY typically puts depreciation pressure on the Indonesian Rupiah (IDR), increasing import costs and potentially influencing Bank Indonesia's monetary policy decisions. Indonesian investors should monitor these global trends closely, as they can affect foreign portfolio flows into the IHSG and SBN yields, with sectors reliant on global demand potentially facing headwinds.",
+    "source": "U.S. Bureau of Economic Analysis (BEA)"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "4 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": false
+}
