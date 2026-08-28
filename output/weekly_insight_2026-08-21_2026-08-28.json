@@ -1,0 +1,83 @@
+{
+  "period_start": "2026-08-21",
+  "period_end": "2026-08-28",
+  "weekly_highlights": [
+    {
+      "title": "US 30-Year Treasury Yield Hits 2007 High Amid Inflation and Debt Concerns",
+      "date": "2026-08-22",
+      "summary": "The U.S. 30-year Treasury yield surged to 5.34%, its highest level since 2007, driven by investor concerns over high government debt, rising budget deficits, and persistent inflation. This rise in long-term rates heavily impacted technology and growth stocks, leading to significant profit-taking.",
+      "source": "Yelza",
+      "indonesia_impact": "Rising US interest rates and bond yields increase the attractiveness of US assets, potentially leading to capital outflows from emerging markets like Indonesia, weakening the IDR and increasing SBN yields. Global risk aversion also impacts IHSG.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Indonesia's Q2 2026 GDP Slows to 5.29%, Trade Balance Posts Deficit",
+      "date": "2026-08-27",
+      "summary": "Indonesia's economic growth decelerated to 5.29% year-on-year in Q2 2026, down from 5.61% in Q1, attributed to normalized post-Eid consumption. Additionally, the trade balance recorded a deficit of US$450 million in June 2026, marking two consecutive months where imports exceeded exports.",
+      "source": "CNBC Indonesia",
+      "indonesia_impact": "Slowing GDP growth and a trade deficit indicate potential headwinds for the Indonesian economy, which could negatively impact the IDR and IHSG. This data will be closely watched by Bank Indonesia for monetary policy decisions.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Global Equities Retreat as Rising Yields and Geopolitical Risks Mount",
+      "date": "2026-08-21",
+      "summary": "Global equity markets experienced a broad pullback as risk sentiment softened due to rising U.S. Treasury yields and escalating U.S.-Iran tensions. The geopolitical developments pushed crude oil prices higher, reinforcing inflation concerns and contributing to increased volatility across international markets.",
+      "source": "Howard Capital Management",
+      "indonesia_impact": "Rising oil prices increase Indonesia's fuel subsidy burden and inflation risk. Higher global yields can lead to capital outflows from Indonesia, weakening the IDR and increasing SBN yields. Global risk aversion also impacts the IHSG.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7HVtS2F9KxIKrizBnrSiwbhY25KbhUpYsCp3gQ-ttVckMFau1WODI-KX3dz8A8xPdi3xNZ7K0-7ixb3x1HIGnTHGEZvcwvnaHCNTwV52jp6YTXO5hEyQEOiDro6xn-LLaBnbYaDroWjFgtSR1isx2-HJO_tDl2ITu_1wlKr95QtRn4bPQO3QPJ7KGogWR634p69y_ZjEgjL1w0qNgEAcqyzxo7BiO1w0N_K_d15hz",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "President Prabowo Optimistic on Indonesia's Economic Rise, Focus on Self-Sufficiency",
+      "date": "2026-08-27",
+      "summary": "President Prabowo Subianto expressed strong optimism for Indonesia's economic future, emphasizing self-sufficiency in food and energy to reduce fuel imports. He reiterated the government's commitment to ensuring subsidized goods remain affordable and combating corruption.",
+      "source": "Setpres",
+      "indonesia_impact": "Presidential statements on economic policy, particularly regarding energy self-sufficiency and subsidies, directly influence investor sentiment, the IDR, and the government's fiscal outlook, impacting SBNs and inflation expectations.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmPK2LwjYfXvuLv-sbGkACbWoxUUbhOrcHbHZgqPQN9sJiNcMZTw0_8kCGBs_BSnKhQHFp3uxd5M7lOm9gdcS02tTsTYUc029VGRH8XzWxq8gdgco6uqeW7GEfLXmtweJIlYlNuGESbM-CvDpMmbyjbiK14GCZOeD3UCPpFFw4SJ349SHSU8XvkTUx9azg6pRF946kL8-lAbfZnHJzYY8HciEVLIQ=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Federal Reserve Faces Critical Decision on Interest Rates Amid Persistent Inflation",
+      "date": "2026-08-27",
+      "summary": "The Federal Reserve is at a pivotal juncture regarding monetary policy for the remainder of 2026, with inflation still exceeding its 2% target. The July FOMC meeting revealed internal divisions, with a 9-3 vote to hold rates steady, but some members advocating for a 25 basis point hike.",
+      "source": "Demócrata",
+      "indonesia_impact": "The Fed's monetary policy decision directly impacts global interest rate differentials. A hawkish Fed (e.g., rate hike or strong signals) could strengthen the USD, weaken the IDR, and trigger capital outflows from Indonesian bonds and equities.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcNRkASMpvawGMyA9KPGY0ZA6PEZxpT6KJI0NOLv7KyozHl0N_zLoL5KMicp4p04GWJ8YgXujBzTy95qkL1rVDncJxXEZ5npdBayLy8T4KgAYovdr7M-WTMskjPAW5XufGn1PxLfP7AcH6hET63wnmdZi1AIDMLtnQaRnPpEYWsbzpEXnH7ulzVfEBB4rWQ2_93LBIFUB7I2KaWdTXJ1u_DdG_QsInw8dUhXN3XLsHid0j94xkPqiAD_2PwnJWjw==",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Indonesia's Economy Remains Resilient, Driven by Downstream Industries and Digital Economy",
+      "date": "2026-08-28",
+      "summary": "Indonesia's economy demonstrated resilience amidst global uncertainties, achieving 5.45% growth in Semester I-2026. The government plans to leverage downstream industries and the digital economy as key drivers for future growth and to attract productive investment.",
+      "source": "Vibizmedia.com",
+      "indonesia_impact": "Positive economic growth figures and government focus on strategic sectors like downstream industries and digital economy can attract foreign direct investment and support the IDR and IHSG, signaling a stable economic outlook.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    }
+  ],
+  "major_headline": {
+    "title": "Indonesia's Q2 2026 GDP Slows to 5.29%, Trade Balance Posts Deficit",
+    "summary": "Indonesia's economic growth decelerated to 5.29% year-on-year in Q2 2026, down from 5.61% in Q1, attributed to normalized post-Eid consumption. Additionally, the trade balance recorded a deficit of US$450 million in June 2026, marking two consecutive months where imports exceeded exports.",
+    "source": "CNBC Indonesia",
+    "url": null,
+    "sourced_from": "summary_only",
+    "source_tier": "tier1"
+  },
+  "key_insight": {
+    "summary": "This week's market dynamics highlight a challenging global backdrop for Indonesia, characterized by rising U.S. interest rates and geopolitical tensions, alongside domestic economic shifts. The surge in the US 30-year Treasury yield to a 19-year high, driven by inflation and debt concerns, signals a potential for capital outflows from emerging markets like Indonesia, putting pressure on the IDR and increasing SBN yields. This global risk aversion is compounded by Indonesia's own Q2 2026 GDP slowdown to 5.29% and a persistent trade deficit, which could further weigh on the IDR and IHSG. While the government remains optimistic, focusing on downstream industries and the digital economy for growth, the Federal Reserve's upcoming monetary policy decision will be crucial. A hawkish stance could strengthen the USD and intensify capital flight, requiring Bank Indonesia to carefully manage its policy to maintain stability amidst these converging global and domestic headwinds.",
+    "source": "Research and Education Department"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "5 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": false
+}
