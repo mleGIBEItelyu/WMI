@@ -1,0 +1,83 @@
+{
+  "period_start": "2026-08-28",
+  "period_end": "2026-09-04",
+  "weekly_highlights": [
+    {
+      "title": "Strong US Jobs Report Fuels Rate Hike Expectations, Weighing on Global Equities",
+      "date": "2026-09-04",
+      "summary": "U.S. employers unexpectedly added 162,000 jobs in August, significantly exceeding forecasts of 65,000. This strong labor market data has increased the probability of a Federal Reserve interest rate hike in September to 60.2%, up from 49.4% a day prior, causing U.S. stocks to mostly fall and Treasury yields to rise.",
+      "source": "Reuters",
+      "indonesia_impact": "Higher US interest rate prospects can lead to capital outflows from emerging markets like Indonesia, weakening the IDR and potentially increasing SBN yields. It also impacts Bank Indonesia's monetary policy decisions.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "ECB Poised for 25 Basis Point Rate Hike Amid Accelerating Eurozone Inflation",
+      "date": "2026-09-04",
+      "summary": "The European Central Bank (ECB) is widely expected to raise its key interest rates by 0.25 percentage points at its upcoming meeting. Market pricing implies a 99.0% probability of rates increasing to 2.50% from the current 2.25%, as Eurozone inflation accelerated to 3.3% in August, exceeding the ECB's 2% target.",
+      "source": "Morningstar Nordics",
+      "indonesia_impact": "While less direct than Fed policy, ECB rate hikes can contribute to a global tightening of financial conditions, potentially affecting global capital flows and indirectly influencing IDR stability and foreign investment sentiment in Indonesia.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Indonesia's August CPI Inflation Remains Within Target Range",
+      "date": "2026-09-01",
+      "summary": "Indonesia's Consumer Price Index (CPI) inflation in August 2026 was recorded at 0.21% month-to-month (mtm) and 3.19% year-on-year (yoy). This figure remains within Bank Indonesia's target range of 2.5% ± 1%, indicating stable price conditions.",
+      "source": "Bank Indonesia",
+      "indonesia_impact": "Domestic inflation data directly influences Bank Indonesia's monetary policy decisions, including interest rates, and impacts the purchasing power of the IDR and investor sentiment towards Indonesian assets like the IHSG and SBNs.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Crude Oil Prices Climb as US-Iran Tensions Escalate Supply Concerns",
+      "date": "2026-09-04",
+      "summary": "Crude oil prices rose, with Brent and WTI heading for their strongest weekly gains since July, driven by renewed US-Iran hostilities. The ongoing conflict, which has intensified over the past week and effectively closed the Strait of Hormuz, raises concerns over potential disruptions to global oil supplies.",
+      "source": "FX Empire",
+      "indonesia_impact": "Rising crude oil prices will increase Indonesia's fuel subsidy burden, impacting the state budget. It also contributes to domestic inflation and affects the profitability of Indonesian oil and gas companies.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm4zOelL_i9RTSoowpCqx8O6mKO3IgrhweQZbK8tyPPKPFKKFzcQ1JrN_xNVNkGVl81i8M1KWDlfb_Kvqd_g1oaafZpsEhaCDGT3QDCzdIGu76HnvClMcvfjd-FHnrxCRCV80HsoSsekWx8d7ya1NAt7iMZeIMx3t5IYCRlW5301Ecwzl2SJimpzN5iUZ1fkENBZSypeMxREtSAoMjDaMS3JQP1vZxGDZAqYGzD8PZQH7fvg==",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "US Stocks Edge Lower on Strong Jobs Report and Rate Hike Anxiety",
+      "date": "2026-09-04",
+      "summary": "The Dow Jones Industrial Average fell 0.67%, the S&P 500 slipped 0.50%, and the Nasdaq Composite traded 0.44% lower after a surprisingly strong US employment report. This data sparked renewed anxiety about potential interest rate hikes by the Federal Reserve, despite some gains in technology stocks.",
+      "source": "The Motley Fool",
+      "indonesia_impact": "Negative sentiment in global equity markets, particularly due to US interest rate concerns, can lead to reduced foreign investment in Indonesian equities and potentially pressure the IHSG and IDR.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg5_e7pPlCN-0kLNxrVG2qYtm5Z1zpoTkLOY6BwXfSCY_EHAr490TlEpTFkTbaMIL15ngTA2sARFLYJah4ekGIN_YB-NHvZFQ0gu5E1famYXo3zXURCRpWmEIdmerUEG-SLqkbGaOt0MKC5BC5H_41kd6H7-Xu2h06LH5_MyO9vsW_r806N8pdgI56uwfxS1z9vt6DFiGHEmJDMI3DNY8Jgcszq8aHW61EdT4qmV85W5LRR0Yfa3VJ-yj_-2BuuwOdYkxqTrjUm2qhEA2op8ViNQ==",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "US 10-Year Treasury Yield Holds Steady at 4.77% Amid Rate Hike Speculation",
+      "date": "2026-09-04",
+      "summary": "The yield on the benchmark U.S. 10-year Treasury held steady at 4.77% after rising earlier in the week. This yield, which influences mortgage rates and broader borrowing costs, has been steadily increasing throughout the year, up from 4.20% at the beginning of 2026, reflecting persistent inflation concerns and rate hike expectations.",
+      "source": "DTN Progressive Farmer",
+      "indonesia_impact": "Rising US Treasury yields make US dollar-denominated assets more attractive, potentially drawing capital away from Indonesian government bonds (SBNs) and putting upward pressure on their yields, while also weakening the IDR.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    }
+  ],
+  "major_headline": {
+    "title": "Strong US Jobs Report Fuels Rate Hike Expectations, Weighing on Global Equities",
+    "summary": "U.S. employers unexpectedly added 162,000 jobs in August, significantly exceeding forecasts of 65,000. This strong labor market data has increased the probability of a Federal Reserve interest rate hike in September to 60.2%, up from 49.4% a day prior, causing U.S. stocks to mostly fall and Treasury yields to rise.",
+    "source": "Reuters",
+    "url": null,
+    "sourced_from": "summary_only",
+    "source_tier": "tier1"
+  },
+  "key_insight": {
+    "summary": "The past week saw global markets react strongly to a surprisingly robust U.S. jobs report, which added 162,000 jobs in August. This data significantly bolstered expectations for a Federal Reserve interest rate hike in September, with probabilities rising to over 60%. For Indonesia, this translates into potential capital outflows from emerging markets, putting depreciating pressure on the Rupiah (IDR) and possibly increasing yields on Indonesian Government Bonds (SBNs). Concurrently, escalating US-Iran tensions have pushed crude oil prices higher, which could exacerbate Indonesia's fuel subsidy burden and contribute to domestic inflation. While Indonesia's August CPI inflation remained stable at 3.19% (yoy) within Bank Indonesia's target, the combined pressure from global monetary tightening and rising commodity prices presents a complex challenge for Bank Indonesia's monetary policy and overall investor sentiment towards Indonesian assets, including the IHSG.",
+    "source": "Reuters"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "5 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": false
+}
