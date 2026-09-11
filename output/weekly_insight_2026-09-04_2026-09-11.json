@@ -1,0 +1,84 @@
+{
+  "period_start": "2026-09-04",
+  "period_end": "2026-09-11",
+  "weekly_highlights": [
+    {
+      "title": "Fed Rate Hike All But Guaranteed After Hotter-Than-Expected CPI Report",
+      "date": "2026-09-11",
+      "summary": "The August Consumer Price Index rose 3.4% annually, with core prices up 0.3% from July, leading economists to believe a Federal Reserve interest rate hike in September is 'all but guaranteed'. This would mark the first rate increase since 2023, driven by broadening inflationary pressures.",
+      "source": "CBS News",
+      "indonesia_impact": "A guaranteed Fed rate hike will likely strengthen the USD, putting depreciation pressure on the IDR. It could also trigger capital outflows from Indonesian bonds and equities, impacting IHSG and SBN yields.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBc_lGlj8GXxsDmvxwEl5Bj0VgMFyqsPm_-ZKRqt45Ce8ed8aErjzdYeZ2r1rs16QaN2d0upyLPoSfTUhLOOmnsjk0deUb7e7WKUwVTB09gTg-0Z1xLMyNJYtZO0IaHz_XxnY9XyHb9zUYhiEtwF9mocH_PoMmVztWvnTv_aw1",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Bank of Japan Expected to Raise Policy Rate to 1.25% Next Week, Highest in 31 Years",
+      "date": "2026-09-11",
+      "summary": "The Bank of Japan is reportedly planning to raise its policy interest rate by 0.25 percentage point to 1.25% at its upcoming meeting, reaching its highest level in approximately 31 years. This move is in response to underlying inflation nearing the BOJ's 2% target and growing upside risks to prices from higher oil prices, a weaker yen, and rising AI-related demand.",
+      "source": "Nippon.com",
+      "indonesia_impact": "A significant BOJ policy shift could impact global risk sentiment and capital flows. A stronger JPY might indirectly affect IDR through broader USD movements, and changes in Japanese investment appetite could influence FDI into Indonesia.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU67qYL_Sc0sqpFPETmeXFcj0xGQHBmtOM1ry4IGV6aYAyWMoPueBAogbEF5Fa4GwbJoUEJu0h-wyX69SfbeXFfPC7Nx0k-j9qTnWkmvKF6wgQT5iuu8m0kwB1hWGhzqBS7eVluSP0QNDDAA==",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "ECB Hikes Rates to 2.50% and Raises Inflation and Growth Forecasts Amid Geopolitical Tensions",
+      "date": "2026-09-10",
+      "summary": "The European Central Bank raised its key interest rate by 0.25 percentage points to 2.50%, citing persistent inflation pressures from the Middle East conflict. The ECB also revised its inflation outlook upward for 2027 and 2028, and increased its growth forecasts for 2026 and 2027, reflecting greater economic resilience.",
+      "source": "Morningstar",
+      "indonesia_impact": "An ECB rate hike could strengthen the EUR against the USD, indirectly influencing the IDR. It also reflects global inflationary pressures, which could impact Indonesia's import costs and commodity prices.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG26L6On_RIrl5KBmzj0tagvUIxa1w-YOYMfPLK2rnrMo04Tz_ynrTTHXu8dgC-PROEX48Tq52dewACbXjXYrgExEu-waqa7Ts-elm9nAG9dMsX8CtH8K3dQg65wUykzT1RAWjCafOD3wjTyztVxlH7aLBnLVWeyK88FtW3MaRPzh7TVhoVibepx2tpor4_6KMG0Q8hMw==",
+      "sourced_from": "full_article",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "U.S.-Canada Trade War Escalates with New Tariffs and Import Bans, Raising Global Concerns",
+      "date": "2026-09-10",
+      "summary": "The U.S. escalated its trade war with Canada by banning imports of some Canadian goods, following Canada's retaliatory tariffs. This dispute, which includes new tariffs on aluminum and steel, deepens concerns about U.S. trade policy among key partners and risks weakening North American production platforms.",
+      "source": "Carnegie Endowment for International Peace",
+      "indonesia_impact": "An escalating trade war between major economies could disrupt global supply chains and dampen global growth, potentially reducing demand for Indonesian exports and impacting commodity prices. Increased global inflation could also affect Indonesia's import costs.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2EoUFTr0Vndkrj9eD34jDgyQPqtF2Nata2MFedFiisFPhHourYSJlqDjfT4pKnnf0hVoGm7_hQTYdtI7BnMbNmfnvJrLre6a81SZ0Gh-dXyd-IsdedyXWODgIqBEgi6BljOMzZhqamSeFgfn5uZBbCMFXyFuZfETw2eU-lWJWSh-l3lwYSrmsovY=",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "US Consumer Sentiment Falls as Inflation Expectations Jump to 4.6%",
+      "date": "2026-09-11",
+      "summary": "The University of Michigan’s consumer sentiment index dropped to 47.8 in early September, marking a second consecutive monthly decline and falling below market expectations. Year-ahead inflation expectations surged to 4.6%, the highest since June, driven by rising fuel prices and trade tensions.",
+      "source": "TradingView",
+      "indonesia_impact": "Weaker US consumer sentiment could signal a slowdown in US economic growth, potentially reducing demand for Indonesian exports. Rising US inflation expectations could also reinforce Fed hawkishness, indirectly impacting the IDR.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm6yBoUjw-ngGNOIHBRhbaNdExGx2SmnnRZV89T0IlUiLAoSndlbw6NjdjuSWOHkAR6liZ19srYR3DlHq--x7RFY5oZO-IGQNWvoUam4pN1Guplm4v5DMKHsRL_p9CDZoVcXlwoZfCqlYE9RYm5AHajD3SELAtYdqt_bo14dgO3QOYAzpup_Ktbp0IrMnIoWglVUZLwAFzqeALLEXucJGOdtxwo3SlTn0=",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "U.S. Treasury Imposes Expansive Sanctions on Iran's Terrorist Proxy Network and Aviation Sector",
+      "date": "2026-09-10",
+      "summary": "The U.S. Department of the Treasury's OFAC launched 'Operation Economic Outcast', sanctioning entities and individuals supporting Iranian proxies like Kata'ib Hizballah and Lebanese Hizballah. Additionally, sweeping new sanctions were issued against Iran's airlines, indefinitely suspending three aviation authorizations, further isolating Tehran from the global economy.",
+      "source": "U.S. Department of the Treasury",
+      "indonesia_impact": "Increased geopolitical tensions and sanctions on Iran could lead to higher oil prices, impacting Indonesia's fuel subsidy budget and inflation. It could also affect global risk sentiment, potentially leading to capital outflows from emerging markets like Indonesia.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdPDsmvAn111WHS7yJwZ2bMtKP3HAqQ3_R8ZaW0YuslU-Uk1iVoLcVFCicArjKIS2M7AuXQ0T1RfXrsGFidmwR27kbeeGfX95ej053MON7ych0vuhwn5ZPUoOAS5cDpojjQQlk8LzpZMGf78B8tjuOOiSmcXZeB08-gqPG9YzD77k5imT1_xisaXb7mXuz2iXV0uasrRasYpdL0egqTOYPGk4=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    }
+  ],
+  "major_headline": {
+    "title": "ECB Hikes Rates to 2.50% and Raises Inflation and Growth Forecasts Amid Geopolitical Tensions",
+    "summary": "The European Central Bank raised its key interest rate by 0.25 percentage points to 2.50%, citing persistent inflation pressures from the Middle East conflict. The ECB also revised its inflation outlook upward for 2027 and 2028, and increased its growth forecasts for 2026 and 2027, reflecting greater economic resilience.",
+    "source": "Morningstar",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG26L6On_RIrl5KBmzj0tagvUIxa1w-YOYMfPLK2rnrMo04Tz_ynrTTHXu8dgC-PROEX48Tq52dewACbXjXYrgExEu-waqa7Ts-elm9nAG9dMsX8CtH8K3dQg65wUykzT1RAWjCafOD3wjTyztVxlH7aLBnLVWeyK88FtW3MaRPzh7TVhoVibepx2tpor4_6KMG0Q8hMw==",
+    "sourced_from": "full_article",
+    "source_tier": "tier1"
+  },
+  "key_insight": {
+    "summary": "This week's global economic landscape is dominated by persistent inflationary pressures and tightening monetary policies from major central banks, alongside escalating geopolitical tensions. The 'hotter-than-expected' US CPI report makes a Fed rate hike in September 'all but guaranteed', which will likely strengthen the USD and exert depreciation pressure on the IDR, potentially triggering capital outflows from Indonesian bonds and equities, impacting the IHSG and SBN yields. Concurrently, the ECB's rate hike to 2.50% and the BOJ's expected rate increase to a 31-year high of 1.25% underscore a synchronized global effort to combat inflation, reflecting broad-based price risks. These global hawkish stances, coupled with rising US inflation expectations and falling consumer sentiment, signal a challenging environment for emerging markets like Indonesia, where imported inflation and reduced foreign investment appetite are key concerns. Furthermore, escalating U.S.-Canada trade tensions and expanded U.S. sanctions on Iran contribute to global supply chain disruptions and higher oil prices, directly impacting Indonesia's fuel subsidy budget and overall inflation. Indonesian investors should brace for potential IDR volatility and a cautious sentiment in the IHSG, as global liquidity conditions tighten and risk aversion rises.",
+    "source": "GIBEI Telkom University"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "Conflicting figures for ECB policy rate: 0.25%, 2.50% appear in the same report.",
+    "2 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": true
+}
