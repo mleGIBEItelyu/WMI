@@ -1,0 +1,85 @@
+{
+  "period_start": "2026-09-11",
+  "period_end": "2026-09-18",
+  "weekly_highlights": [
+    {
+      "title": "Federal Reserve Raises Federal Funds Rate to 3.75%-4%",
+      "date": "2026-09-16",
+      "summary": "The Federal Open Market Committee (FOMC) unanimously voted to raise the target range for the federal funds rate by 0.25 percentage point to 3.75%-4%, effective September 17, 2026. This decision, the first increase since 2023, was anticipated by markets and signals a continued focus on combating inflation.",
+      "source": "Federal Reserve Board",
+      "indonesia_impact": "A Fed rate hike typically strengthens the USD, putting depreciation pressure on the IDR and potentially leading to capital outflows from Indonesian bonds and equities. Bank Indonesia may face pressure to adjust its own policy rate to maintain IDR stability and manage inflation.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2zjzUuWj-xge1m-RKpHIINvDqVghrgBHOZWjFl_u4xawfIrIDM-3dbO2UMz8zhYCDMxNSNQa-XL9iHAQ0XDnrYJ0jxxad3pDuiUk3cJc6-Q-Y0oo452e2yF265bC6EoOu90QAA-eJcvv2ibCHUrOHG_wQgYaUQC0fBAsopougYGiLPA=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Bank of Japan Hikes Policy Rate to 1.25%, a 31-Year High",
+      "date": "2026-09-18",
+      "summary": "The Bank of Japan (BOJ) raised its policy rate from 1.0% to 1.25% in a split decision, marking the sixth increase since March 2024 and the highest level since 1995. This move comes amid pressure to counter rising inflation fueled by Middle East tensions and a weak yen, aligning with other major central banks tightening monetary policy.",
+      "source": "The Guardian",
+      "indonesia_impact": "A BOJ rate hike could strengthen the JPY and contribute to a global tightening cycle, indirectly affecting Indonesia through changes in investor sentiment and cross-currency dynamics. However, the direct impact on Indonesian assets is generally less significant compared to Fed actions.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESxDo876pXJFkzfpVVExWKTOZKRchi2ihgHrhSgkQV41XZnuw3RO2vxJvvmcC8rvNMcjvGDwZqNf1jIVWj6RQ2yRWlsAfOPBAyfo85ZxkpFrFgRHvtbR4DC4mF3AZpDFw_yCaqzkrCyXHcZxi_tvvORHeynhKK05xK8cC7f0u1veeDQkaeyGNrf1oVbTmspGQb0mZMnvn9qqtPd3lvEt80Deb1",
+      "sourced_from": "full_article",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Implementation Note Details Fed's Monetary Policy Adjustments",
+      "date": "2026-09-16",
+      "summary": "The Federal Reserve issued an Implementation Note detailing its monetary policy adjustments, including raising the interest rate paid on reserve balances to 3.90% and the primary credit rate to 4.0%, effective September 17, 2026. The Open Market Desk is directed to maintain the federal funds rate in a target range of 3-3/4 to 4 percent.",
+      "source": "Federal Reserve Board",
+      "indonesia_impact": "Higher US interest rates increase the attractiveness of USD-denominated assets, potentially leading to capital outflows from Indonesia and depreciation pressure on the IDR. This could also influence Bank Indonesia's monetary policy decisions to maintain financial stability.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHqm-6Pui5rCY8mZN0x0j5O2Rye4ofUkSsVFLIECN6ZsckHsc5zqvIIntjU0GQdYMPT9T2w6slkO1SJNCfRUg7J7RfH4GqQhsZQRWbwi19wAj2FOFqBAFaSp0TMtoX8d0-8MgpeFI3GW77PdT4zNlEIzjiNF7MaF_mWDsSyh1V2BHbsUtC4mw=",
+      "sourced_from": "full_article",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "BOJ Rate Hike Expected to Boost Elderly Assets, Increase Housing Costs for Young",
+      "date": "2026-09-18",
+      "summary": "The Bank of Japan's decision to hike its policy rate to 1.25% is projected to raise average 10-year time deposit rates by 0.15 points to 2.13% and variable-rate mortgage rates by 0.25 points to 1.45%. This policy is expected to bring an overall positive net impact of ¥400 billion nationwide, with older generations seeing higher interest income and younger generations facing increased mortgage payments.",
+      "source": "Japan Forward",
+      "indonesia_impact": "While the direct financial impacts are primarily domestic to Japan, the BOJ's move could influence global capital flows and investor sentiment. For Indonesia, this might indirectly affect foreign investment decisions and currency dynamics, though with limited direct consequences on the IHSG or SBN yields.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGovPd4w_VReMyima-WRJIhad9TfaCTGz3E6Ak8vIaZdhHkUiyDJoNEaS9Zbn_9xPI5k_DPhEi7_SGi3C7D6HbudJLHwUenjKpHCMQYMT9qLA-KrU8E4HK9OekCGEjSgyA4XBFzQ==",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Oil Prices Surge to $113.48/bbl Amid Middle East and Russia Disruptions",
+      "date": "2026-09-11",
+      "summary": "Benchmark North Sea Dated crude prices surged from an August average of $91.00/bbl to $113.48/bbl on September 9, 2026. This tightening in crude markets is attributed to disruptions in the Middle East and Russia, leading to a shift in demand towards Atlantic Basin barrels.",
+      "source": "IEA",
+      "indonesia_impact": "Higher crude oil prices increase Indonesia's fuel subsidy burden, potentially widening the budget deficit and contributing to domestic inflation. This also impacts the current account balance and can put depreciation pressure on the IDR, while potentially benefiting commodity-exporting sectors.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Fed Rate Hike Implications for Borrowers and Investors",
+      "date": "2026-09-17",
+      "summary": "The Federal Reserve's unanimous decision to raise interest rates to a range of 3.75% to 4% signals its primary concern remains fighting inflation. Financial markets had anticipated the increase, treating the move as the beginning of a broader tightening cycle with expectations of further hikes into 2027.",
+      "source": "The Darden Report",
+      "indonesia_impact": "The Fed's rate hike increases the cost of global capital, potentially impacting Indonesia's foreign debt servicing and attracting capital away from Indonesian markets. This could lead to IDR weakness and pressure on Bank Indonesia to respond with its own policy adjustments.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFcmfIabjffNgY6SFcErnrMh8HeWwB0y-JFnc-YtsJwabrqqEfESIbVdUQjYxA2poSq9RbvHID5JZTK0s5rIs7CHDyY8PWx1Aq89SeJEWyZ1N-KqlxLYnJ0_0o5LXVEJD2it6t4rt4Z28Yo6TH512UlRamqrhb4VSXHYUe99HnFTjrr1pAY3rEYXaf28OnyMbAzw==",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    }
+  ],
+  "major_headline": {
+    "title": "Federal Reserve Raises Federal Funds Rate to 3.75%-4%, Signaling Continued Tightening",
+    "summary": "The Federal Open Market Committee (FOMC) unanimously voted to raise the target range for the federal funds rate by 0.25 percentage point to 3.75%-4%, effective September 17, 2026. This decision, detailed in an Implementation Note, marks the first increase since 2023 and aligns with market expectations for a broader tightening cycle aimed at combating inflation. The rate paid on reserve balances was also raised to 3.90%, and the primary credit rate to 4.0%.",
+    "source": "Federal Reserve Board",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2zjzUuWj-xge1m-RKpHIINvDqVghrgBHOZWjFl_u4xawfIrIDM-3dbO2UMz8zhYCDMxNSNQa-XL9iHAQ0XDnrYJ0jxxad3pDuiUk3cJc6-Q-Y0oo452e2yF265bC6EoOu90QAA-eJcvv2ibCHUrOHG_wQgYaUQC0fBAsopougYGiLPA=",
+    "sourced_from": "summary_only",
+    "source_tier": "tier1"
+  },
+  "key_insight": {
+    "summary": "This week's dominant theme is the synchronized global monetary tightening, led by the Federal Reserve's rate hike to 3.75%-4% and the Bank of Japan's increase to a 31-year high of 1.25%. For Indonesia, the Fed's action is particularly impactful, as higher US interest rates typically strengthen the USD, exerting depreciation pressure on the IDR. This could trigger capital outflows from Indonesian government bonds (SBNs) and equities, prompting Bank Indonesia to consider its own policy rate adjustments to maintain IDR stability and manage imported inflation. Concurrently, the surge in crude oil prices to over $113/bbl adds another layer of inflationary pressure and increases the burden of fuel subsidies on the Indonesian state budget. Indonesian investors should brace for potential IDR volatility and higher borrowing costs, while also monitoring the implications for commodity-related sectors within the IHSG, which could see varied performance depending on their exposure to global price movements and domestic demand.",
+    "source": "Federal Reserve Board, The Guardian, IEA"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "Conflicting figures for Fed funds rate: 0.25%, 3.75%, 4.00% appear in the same report.",
+    "Conflicting figures for BoJ policy rate: 1.00%, 1.25% appear in the same report.",
+    "3 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": true
+}
