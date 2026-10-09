@@ -1,0 +1,85 @@
+{
+  "period_start": "2026-10-02",
+  "period_end": "2026-10-09",
+  "weekly_highlights": [
+    {
+      "title": "Global Tensions Escalate: Strait of Hormuz Closed, Russia-Ukraine War in Fifth Year, Undersea Cable Threats",
+      "date": "2026-10-05",
+      "summary": "Multiple global conflicts are intensifying, with the Strait of Hormuz remaining largely closed since February 28, 2026, disrupting 95% of normal oil and gas traffic. The Russia-Ukraine war continues into its fifth year, while NATO tracked Russian submarines practicing attacks on undersea data cables near Norway. Yemen's war has also restarted, with Houthis claiming strikes on Saudi Aramco.",
+      "source": "Al Jazeera (via Google Cloud Vertex AI Search)",
+      "indonesia_impact": "The closure of the Strait of Hormuz and broader geopolitical instability will drive up global oil prices and shipping costs, directly increasing Indonesia's fuel subsidy burden and contributing to domestic inflation. Disruptions to global supply chains could also impact Indonesia's import and export logistics.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3tNLOQPcPGz1Pi1UL1ex22sSA6X52Lg8FrCjT2sn24-BfAPJsXR_ShmwDtD8u2xUU6stfgPPffdezS_IelsJF5bV-MDoutzpts2VjfFoyQvE2piMs0rjn_qcQnCiv_8EYQQNPWf8DyEqLqy10LyFHErejbPp1ugBiEJADC9fyTQ2WKXF7HFnLyiMqRYckHXnu67sBZHNnY2n1sVIh2_kf",
+      "sourced_from": "full_article",
+      "source_tier": "low"
+    },
+    {
+      "title": "Oil Prices Surge to $105 Amid Persian Gulf Attacks and Hurricane Isaias",
+      "date": "2026-10-09",
+      "summary": "Brent crude oil prices surged around 4.5% to nearly $105 per barrel, while WTI crude also advanced to almost $92, driven by renewed attacks on shipping lanes in the Persian Gulf and Hurricane Isaias. The hurricane shut in approximately 63% of offshore crude oil production in the U.S. Gulf of Mexico, further tightening global supply. U.S. crude oil inventories are declining, and emergency stockpiles are dwindling.",
+      "source": "Industrial Info Resources",
+      "indonesia_impact": "The sharp rise in crude oil prices will significantly increase Indonesia's fuel subsidy costs, potentially widening the state budget deficit and exacerbating domestic inflationary pressures. While higher commodity prices might benefit some Indonesian exports, the net effect on the import-reliant economy is likely negative.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "U.S. Sanctions Iran's Automotive and Rail Sectors, Including Indonesian Companies",
+      "date": "2026-10-05",
+      "summary": "The U.S. Department of the Treasury's OFAC issued sectoral sanctions on Iran's automotive and rail sectors, designating 30 parties, including companies in Hong Kong, China, UAE, Indonesia, Türkiye, and Germany. This action is part of a broader crackdown that also targeted 56 individuals and entities tied to cartels.",
+      "source": "Steptoe",
+      "indonesia_impact": "The direct sanctioning of Indonesian companies linked to Iran's automotive and rail sectors could severely disrupt their operations, trade relationships, and access to international financial systems, potentially affecting Indonesia's export revenue and foreign investment prospects.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "U.S. Issues Warning to Foreign Financial Institutions on Iran Business",
+      "date": "2026-10-05",
+      "summary": "The U.S. Department of the Treasury's OFAC issued an alert, 'Operation Economic Outcast,' warning foreign financial institutions that continued business with Iran or its financial sector could lead to sanctions. This move aims to further isolate Iran from the global financial system.",
+      "source": "U.S. Department of the Treasury",
+      "indonesia_impact": "Indonesian financial institutions and companies with any ties to Iran face increased risk of secondary sanctions, which could impact their ability to conduct international transactions and trade. This could also indirectly contribute to global oil price volatility, affecting Indonesia's economy.",
+      "url": null,
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Lindsey Graham Act Expands U.S. Sanctions and Tariffs Against Russia",
+      "date": "2026-10-07",
+      "summary": "President Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, expanding existing U.S. sanctions against Russia, particularly targeting its energy exports. Many provisions, including new designation and tariff authorities, become effective by October 19, 2026, with a prohibition on exporting U.S.-produced energy to Russia.",
+      "source": "Debevoise & Plimpton LLP",
+      "indonesia_impact": "Expanded sanctions on Russian energy exports could further tighten global energy supplies, leading to sustained higher oil and gas prices. This would exacerbate Indonesia's fuel subsidy burden and contribute to domestic inflation, potentially pressuring Bank Indonesia to maintain a hawkish monetary stance.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuAPFPzX0FdwtgaAoIw2d5dujME0ogFrnMHe5AqRmBKKM2mgS5w-RrBLn1VK-W6revDl11DHPapd24h9zrx-ZBgdfzcCz6gN_ve_FYLUs6-UMDsqYKgskwX0K7JQSj25tCXyHlRq5sHTQPJgLD9Pgrc4g9uRLx31psCE1lNvx_I5TROTQ3Y4o3rWMsaETavEC4eDVgVDvCGsXPP4RqrwaIDr_4vg==",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "U.S. Consumer Sentiment Deteriorates to Historic Low in October",
+      "date": "2026-10-06",
+      "summary": "U.S. consumer confidence fell to a historic low in October 2026, with preliminary data showing sentiment at 46.3, below expectations. This decline is attributed to high prices and borrowing costs impacting buying conditions, particularly affecting lower-income consumers and those with smaller stock portfolios.",
+      "source": "Facebook (via AP News)",
+      "indonesia_impact": "A significant deterioration in U.S. consumer sentiment signals a potential slowdown in U.S. economic growth, which could reduce demand for Indonesian exports and dampen global economic sentiment. This might lead to decreased foreign investment flows into Indonesia and impact the rupiah's stability.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf99ee0clTtE3RRPq-Z_yyzR0y9_WlIhVV83m3kFXtQaPgKwjDXK6X8oN1FPFG2OPB-q9YzDaAMQrOyuEu-W6LNNVdu2nGSI5WrU86_kK5OBxKqmbW1rFfrlqPb3ZGNDGWyR9NzU_RcqHDlnP22-SDTtZ6KsAKnEYXk0huIDMfzWROOAwZE_NLH5JgxowBuBq2IEYM6wTHtO2C-jTAj3cqmDwtb6_nV6o7h2LYV1ReF8BVqcQH22ZFLifYCNYkY5m7xGfx4g4eWbqbyjj046Wa",
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    }
+  ],
+  "major_headline": {
+    "title": "Global Tensions Escalate: Strait of Hormuz Closed, Russia-Ukraine War in Fifth Year, Undersea Cable Threats",
+    "summary": "Multiple global conflicts are intensifying, with the Strait of Hormuz remaining largely closed since February 28, 2026, disrupting 95% of normal oil and gas traffic. The Russia-Ukraine war continues into its fifth year, while NATO tracked Russian submarines practicing attacks on undersea data cables near Norway. Yemen's war has also restarted, with Houthis claiming strikes on Saudi Aramco.",
+    "source": "Al Jazeera (via Google Cloud Vertex AI Search)",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3tNLOQPcPGz1Pi1UL1ex22sSA6X52Lg8FrCjT2sn24-BfAPJsXR_ShmwDtD8u2xUU6stfgPPffdezS_IelsJF5bV-MDoutzpts2VjfFoyQvE2piMs0rjn_qcQnCiv_8EYQQNPWf8DyEqLqy10LyFHErejbPp1ugBiEJADC9fyTQ2WKXF7HFnLyiMqRYckHXnu67sBZHNnY2n1sVIh2_kf",
+    "sourced_from": "full_article",
+    "source_tier": "low"
+  },
+  "key_insight": {
+    "summary": "This week's market landscape is dominated by a confluence of escalating geopolitical tensions and their direct impact on global energy markets, creating significant headwinds for Indonesia. The prolonged closure of the Strait of Hormuz, coupled with renewed attacks in the Persian Gulf and a hurricane in the U.S. Gulf of Mexico, has propelled Brent crude prices above $100, reaching nearly $105 per barrel. For Indonesia, this translates directly into a heavier fuel subsidy burden, risking a wider budget deficit and fueling domestic inflation, which could prompt Bank Indonesia to maintain higher interest rates. Furthermore, the expansion of U.S. sanctions on Russia's energy sector and Iran's key industries, including the direct sanctioning of Indonesian companies, adds layers of complexity to global trade and supply chains. While Indonesia's commodity exports might see some benefit from higher prices, the overall inflationary pressure and potential disruption to international transactions for affected Indonesian entities pose substantial risks to the rupiah and the IHSG, particularly for sectors reliant on energy imports or exposed to sanctioned trade routes.",
+    "source": "Al Jazeera (via Google Cloud Vertex AI Search), Industrial Info Resources, Steptoe, U.S. Department of the Treasury, Debevoise & Plimpton LLP"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "Major headline uses a low-authority source (Al Jazeera (via Google Cloud Vertex AI Search)); prefer a trusted outlet.",
+    "1 highlight(s) rely on low-authority sources: Al Jazeera (via Google Cloud Vertex AI Search).",
+    "4 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": true
+}
