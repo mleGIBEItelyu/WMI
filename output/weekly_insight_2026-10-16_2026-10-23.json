@@ -1,0 +1,83 @@
+{
+  "period_start": "2026-10-16",
+  "period_end": "2026-10-23",
+  "weekly_highlights": [
+    {
+      "title": "Oil Prices Surge Above $117 Amid Middle East Tensions and US Strike Fears",
+      "date": "2026-10-23",
+      "summary": "Brent crude surged by approximately 3.5% to exceed $117 a barrel, reaching its highest level in over six months. This spike is attributed to escalating fears of conflict in the Middle East and potential US military actions against Iran, with vessel traffic through the Strait of Hormuz reportedly nearing a halt and non-compliant ships being penalized by Iran.",
+      "source": "The Guardian, WANA News",
+      "indonesia_impact": "Higher oil prices will significantly increase Indonesia's fuel subsidy burden and energy import costs, potentially widening the current account deficit and fueling domestic inflation. This could put pressure on Bank Indonesia to maintain or raise interest rates and lead to rupiah depreciation.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxfFjAoM72MnREn_Prf8fx102pkiqltqtfGNfbfotbDqEWJzfjjQUhIwv0irxXg3IRvg_lKxbs1rxyFguOf4RKTlGyD-6EyZOvv2fNNHOLXXT-fJUs3v86LuECbwfiKZd4Mq8Lq28LkTlVvwdIsQMPvTDqJGHHn8yyFMitgaEs8snsj0yNAqpQifQaCsaAnNwD5n4v1kuoWCXUHNw=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Bank Indonesia Maintains BI-Rate at 5.75%, Raises Deposit Facility Rate to 5.00%",
+      "date": "2026-10-23",
+      "summary": "Bank Indonesia's Board of Governors decided to hold the BI-Rate at 5.75% and the Lending Facility rate at 6.50% during its October 20-21 meeting. However, the Deposit Facility rate was increased by 25 basis points to 5.00%. This decision aims to strengthen rupiah stability amidst external pressures and manage inflation within the 2.5% ± 1% target for 2026-2027.",
+      "source": "Bank Indonesia, Kompas.com",
+      "indonesia_impact": "The decision to hold the BI-Rate provides stability for the rupiah and SBN yields, while the increase in the Deposit Facility rate aims to absorb liquidity and support rupiah stability, directly impacting Indonesian financial markets and investor sentiment.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-3b9QOcp9HU_SzpKNSV95M7SR-KocprRgO7qKpYsZDzpyz9HuPZUPvpqUH9e5zAl8ZB7b0zJT0W_2H9XiSc10JYZUm8ngXrSzRFecpM1mzpw-uXSyzS98Yx9C2w3UmyzzmHEwKEbRr6ZVN2SL92o7H0HmHHAMj9pNeqxTvu4O-zM1-GHih-B_auyNnjX49e6IeIGLIGbtek3nEQNG4pWfdlTwi92z3wgd4df--b3MgGg10QAnBw==",
+      "sourced_from": "full_article",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Bond Market Turmoil Complicates ECB Rate Decision, German Yields Surge",
+      "date": "2026-10-20",
+      "summary": "Turmoil in European bond markets is independently lifting borrowing costs, with the surge in German bond yields since September having an impact equivalent to a 25 basis point rate hike. This complicates the European Central Bank's (ECB) decision-making, as the bond sell-off is already cooling the economy and reducing the need for further rate hikes, despite previous expectations for a December increase.",
+      "source": "The Irish Times",
+      "indonesia_impact": "Turmoil in global bond markets and potential ECB rate decisions could lead to capital outflows from emerging markets like Indonesia, putting pressure on the rupiah and SBN yields. Higher global borrowing costs could also affect Indonesian corporate financing.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbg_gBIvVIWD4DH5yRRfxkN2oHNU-qUpUWdp2PnrnX-BDpV-dXXl9jDumCoymR4F05yZQeMoWBWY9EY1g-ZsLhsLych835UTKYbXG_I7_CRkBYjerFr9AEw4gryLlxXvBOTyfl46RrESFFbscjh4Oeen86yXe3p6SrV79tavowD0UBngwAPrgML-T3hu_de1OEQfU4sH9VKKGaS3k=",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "WTI and Brent Crude Extend Year-To-Date Gains Amid Supply Concerns",
+      "date": "2026-10-22",
+      "summary": "West Texas Intermediate (WTI) futures opened at $97.64 per barrel, up 1.68% from the previous day's close, while Brent crude opened at $109.57 per barrel. Both benchmarks are extending their year-to-date gains, indicating sustained upward pressure on global oil prices.",
+      "source": "Forbes",
+      "indonesia_impact": "Continued upward trends in global oil prices will likely increase Indonesia's energy import costs and fuel subsidy burden, potentially impacting the state budget and contributing to domestic inflation. This could pressure the rupiah and influence BI's policy stance.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE-YoiGB7zYm3g22XFfR6kSeUc30diTa1eXa54pOYF5JCgwhpBWD_BWcGayGSs-7BehAIuvgsdUMojZGgviZmQlpVnoC6pUNVBP7SSZ9T09T3ET88Ip0Kr4nPZAYLTMPSe3Sm8k8zj7YauXgHErhPaniozIyU=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "BOJ Expected to Continue Quarterly Rate Hikes, Says Former Official",
+      "date": "2026-10-21",
+      "summary": "A former Bank of Japan (BOJ) executive director, Eiji Maeda, stated that the BOJ is likely to continue raising interest rates every three months to contain inflation risks. While the BOJ is expected to hold rates steady in October, Maeda anticipates the next hike in December, followed by another in March or April, accelerating the pace of tightening.",
+      "source": "The Japan Times",
+      "indonesia_impact": "A hawkish BOJ stance could strengthen the JPY and potentially lead to some capital reallocation from emerging markets. However, the direct impact on Indonesia is likely moderate, primarily through global investor sentiment and currency markets.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmlMj9V5Ie6Mq3N3aJkj4wEu4CvFCcoQTQajHaXBswtRU49sv72zpaOGRGu8WtMS3VpREAY2pPSuSHbg-BKjTq6TM9WDMNl0YPXxagbSc0gW_Un2_KE3UuT_S1l9f0sZUhejpa8NiJUhEE-o4FHHIfB_EXsBOlYmsMHwsrOXlrXY_n6zZzM0oBJKm_4Bxi-A==",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "France's Bond Drama Takes Center Stage Ahead of ECB Rate Decision",
+      "date": "2026-10-23",
+      "summary": "The European Central Bank (ECB) is widely anticipated to maintain its interest rates next week, as rising government bond yields, particularly in France, are already tightening borrowing conditions across the eurozone. ECB President Christine Lagarde emphasized that addressing France's debt issues is primarily the responsibility of Paris.",
+      "source": "Euronews",
+      "indonesia_impact": "Rising bond yields in the Eurozone could trigger a broader risk-off sentiment, potentially leading to capital outflows from emerging markets, including Indonesia. This could put depreciation pressure on the IDR and increase SBN yields.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDyB4tfo01nBROLaZbp-d0tmhO6tFsXooVF9H1rIGlFAvvdHnutDLKecHIjgRVsQpKcXBoptUBNqTAtRIm7NtEQpE54YW4I5mGl-bzHoQjcrh0M9VKjOLF8vWSi8-4q6cMQMqU0vnkjMDEOBRov84KPhiYixfpWGr6_waOmVVIjP62UwHi2EGtaycAi4FsHPUMlZ0hHhrVTnhr8bBaBsY=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier2"
+    }
+  ],
+  "major_headline": {
+    "title": "Oil Prices Surge Above $117 Amid Middle East Tensions and US Strike Fears",
+    "summary": "Brent crude surged by approximately 3.5% to exceed $117 a barrel, reaching its highest level in over six months. This spike is attributed to escalating fears of conflict in the Middle East and potential US military actions against Iran, with vessel traffic through the Strait of Hormuz reportedly nearing a halt and non-compliant ships being penalized by Iran.",
+    "source": "The Guardian, WANA News",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxfFjAoM72MnREn_Prf8fx102pkiqltqtfGNfbfotbDqEWJzfjjQUhIwv0irxXg3IRvg_lKxbs1rxyFguOf4RKTlGyD-6EyZOvv2fNNHOLXXT-fJUs3v86LuECbwfiKZd4Mq8Lq28LkTlVvwdIsQMPvTDqJGHHn8yyFMitgaEs8snsj0yNAqpQifQaCsaAnNwD5n4v1kuoWCXUHNw=",
+    "sourced_from": "summary_only",
+    "source_tier": "tier1"
+  },
+  "key_insight": {
+    "summary": "This week's market dynamics highlight a critical confluence of global geopolitical risks and domestic monetary policy adjustments for Indonesia. The significant surge in global oil prices, driven by escalating Middle East tensions and potential US actions against Iran, poses a substantial challenge. For Indonesia, this directly translates into an increased burden on fuel subsidies, higher import costs, and elevated inflationary pressures, which could necessitate a more hawkish stance from Bank Indonesia. While Bank Indonesia maintained the BI-Rate at 5.75%, its decision to raise the Deposit Facility rate to 5.00% signals a proactive measure to absorb liquidity and stabilize the rupiah amidst these strong external pressures. Simultaneously, turmoil in European bond markets and potential rate hikes from major central banks like the ECB and BOJ could trigger capital outflows from emerging markets, including Indonesia, further pressuring the rupiah and SBN yields. Indonesian investors should closely monitor these global energy and monetary policy developments, as they will significantly influence the IHSG, rupiah stability, and the overall economic outlook.",
+    "source": "The Guardian, WANA News, Bank Indonesia, The Irish Times"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "3 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": false
+}
