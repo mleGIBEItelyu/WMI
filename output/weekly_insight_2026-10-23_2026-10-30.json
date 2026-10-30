@@ -1,0 +1,83 @@
+{
+  "period_start": "2026-10-23",
+  "period_end": "2026-10-30",
+  "weekly_highlights": [
+    {
+      "title": "The Fed Holds Federal Funds Rate Steady at 3.75%-4.00% in October Meeting Amid High December Hike Expectations",
+      "date": "2026-10-28",
+      "summary": "The Federal Reserve kept the federal funds rate unchanged at 3.75%-4.00% in its October meeting, as widely expected. Despite the pause, futures traders are pricing in a 73% chance of a rate hike in December, up from 42% a month ago, reflecting persistent inflation concerns and solid economic growth. Two FOMC members dissented, favoring a 25 basis point hike.",
+      "source": "Kiplinger",
+      "indonesia_impact": "A steady Fed rate can stabilize the IDR against the USD by reducing immediate pressure for capital outflows. However, strong expectations for a December hike could limit foreign investment into Indonesian bonds and equities (IHSG) as global yields remain attractive.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Hileg--hHfLCJHc5UC0t_lpUzS2VqbLjCR7lqKuNCfsGpw9fzXkvNtpTamEG0USu3eBvg8-Eqa7SXpAkVRJbKQfEYzyYnZK9OLin51bbLPyrARt_CBR9N4WTHQUFGsl8R0KRt70luaHas_fpmvNIV5ixWrtOuhCYuX2PIDVyJq4Vqt4dK_M9xMBOj9rq8c062KI=",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "Commodity Prices Projected to Rise 23% in 2026 Due to Global Shocks, Energy Up 32%",
+      "date": "2026-10-28",
+      "summary": "The World Bank projects overall commodity prices to surge 23% in 2026, with energy prices leading the increase at 32%, reversing three years of declines. Brent crude is forecast to average $91 per barrel in 2026, up from $69 in 2025, driven by the Middle East conflict and depleted oil inventories. Food commodity prices are also expected to climb 10% in 2026 and 7% in 2027.",
+      "source": "World Bank",
+      "indonesia_impact": "Rising commodity prices, particularly energy and food, will likely increase Indonesia's import costs, especially for fuel subsidies, potentially fueling domestic inflation. Conversely, it could boost export revenues for key Indonesian commodities like CPO, coal, and nickel, positively impacting the trade balance.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU5JoTnroDrromX3ES466t4c6eIljMvAg9S0d5_S0YgQc2yge9fblLWddNI9lYkfw_QufHe6yedw_jp_sKVekMjU-C1_VJzkwRvfTDfyjZOGzSd16urJlNA313-l0Sm-JRzO0Ju4JUvB9j_yAGUA3GSWGv1Eh5NEqVAVuOzhH4Fr130HBZNvHznBKOFvEj1PJoe4z_MhaYX8I1QOg=",
+      "sourced_from": "full_article",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "Crude Oil Prices Rise, Brent Reaches $117.75/bbl and WTI $104.79/bbl, on Track for Fourth Straight Monthly Gains",
+      "date": "2026-10-30",
+      "summary": "Crude oil prices continued their upward trend, with Brent crude futures for December rising 2.5% to $117.75 a barrel and US West Texas Intermediate (WTI) crude futures climbing 2.7% to $104.79. This puts both benchmarks on track for their fourth consecutive month of gains, primarily driven by ongoing global supply risks.",
+      "source": "Reuters (via Sharjah24.ae)",
+      "indonesia_impact": "Sustained high oil prices will significantly increase Indonesia's fuel subsidy burden, straining the state budget and contributing to higher domestic inflation. However, it could also benefit state-owned energy companies and potentially boost revenue from oil and gas exports.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEetK7JnsuaO6H8KmAtrDeKYi1AVbRMdKT52cxRsomW3qQhkhxukBhM0ZsRUs50In8uwEprBGsSGmjMHDKxoz0T9-dXo3vZhcCALHepjT2r1dLTxsUtUC0LHMeB17xzGghgkenJwlGhQApTeO1n7ilZnGZbHK6P4zY3r9PFR8ToDPn-8RDAc16fyi_ogPxMy56LqajsQKSYCl4xfSpyj62uhFaUHYFtWVnGRBCysnuYkV0Zsw=",
+      "sourced_from": "summary_only",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "US Real GDP Increased at a Strong 3.4% Annual Rate in Q3 2026, Exceeding Expectations",
+      "date": "2026-10-29",
+      "summary": "The U.S. real Gross Domestic Product (GDP) expanded at an annual rate of 3.4% in the third quarter of 2026, surpassing the 2.2% growth in Q2 and consensus forecasts of 3.2%. This robust growth was driven by increases in investment, consumer spending, and government spending, partly offset by a decrease in exports. Core PCE inflation also accelerated to 2.5%.",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "indonesia_impact": "Strong US GDP growth signals a healthy global economy, which can support demand for Indonesian exports. However, it may also strengthen the USD and reinforce expectations of higher US interest rates, potentially putting depreciation pressure on the IDR and influencing foreign capital flows.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8ZHZm0_o6VLYoHu07eYVHn4FKs3vElSsmX8ZexYg33nJkIJY9JScwEWiyn1fynbdK9Qa9JgML0DyuIs-3uZVfCUiFv4eoMxPYI2LD4BRSvfmb-TRv7wMyooaWGKx9PYKfN3wGVh-2G_h-tARHyH5TTzPruI8d7kBDwlMxa2c=",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    },
+    {
+      "title": "US Manufacturing PMI Rises to 56 in October, Highest Since May 2022, Signaling Strong Q4 Growth",
+      "date": "2026-10-23",
+      "summary": "The S&P Global US Manufacturing PMI increased to 56 in October from 55.9 in September, exceeding forecasts and marking the strongest improvement in operating conditions since May 2022. This indicates sustained strong expansions in production and new orders, with accelerated job growth reaching a 14-year high, pointing to robust economic activity in Q4.",
+      "source": "Trading Economics",
+      "indonesia_impact": "A robust US manufacturing sector suggests strong global demand, which can positively impact Indonesian exports of raw materials and intermediate goods. This sustained growth in a major economy could indirectly support the IHSG and overall trade sentiment.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ2YLTultKewaB21gj3ewd04uodlygCiAIILkb7vD5Sd2r9VVf0EOVshLbrJHRkoji_amfvvjXioJgIhAa_y-_JkRjyB8pLPx96EwbC_zkB2Hup2l6OgijG_HfHazIQH8MyCuHqGTudHEqXW3aO4a1K0LALFGrmA==",
+      "sourced_from": "full_article",
+      "source_tier": "tier1"
+    },
+    {
+      "title": "US Imposes New Sanctions Targeting Iran's Sanctions Evasion and Chinese Entities for IP Theft",
+      "date": "2026-10-26",
+      "summary": "The US Department of Homeland Security issued an Exclusion and Removal Order on DeepSeek AI products across the federal government, citing supply chain risks and potential data transfer to China. Additionally, the US sanctioned five Chinese entities tied to intellectual property theft of Google's AI infrastructure. These actions reinforce growing derisking measures against China and target Iran's petroleum trade.",
+      "source": "Steptoe",
+      "indonesia_impact": "Sanctions on Iran's petroleum trade could further contribute to higher global oil prices, exacerbating Indonesia's fuel subsidy burden and inflation. Increased geopolitical tensions and trade restrictions with China could disrupt global supply chains, indirectly affecting Indonesian exports and foreign investment sentiment.",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHHJ3lC7H1OGG4DY_0Sul-AxIvodEGsaPW5IY8zjZaiUDHzOJIWpwJbi9EA0vk6wRdfFBA5d3zSYZUsvLo4t1GBJBmTZceRCPLsh2nOeH3bvEKPK8Mce6HSsqwHkSoHRTqMIi-w2ilm46oNL8x3DONO8Qt36POrdli6ZMc8u6K1AF_JW-knS-xYd6sSfjKT0if-ptoAhRei4IgooHO_yuggCR5",
+      "sourced_from": "full_article",
+      "source_tier": "tier2"
+    }
+  ],
+  "major_headline": {
+    "title": "Commodity Prices Projected to Rise 23% in 2026 Due to Global Shocks, Energy Up 32%",
+    "summary": "The World Bank's latest Commodity Markets Outlook forecasts a significant 23% increase in overall commodity prices for 2026, with energy prices expected to surge by 32%. This reversal of a three-year decline is attributed to mounting global shocks, including the Middle East conflict drawing down oil inventories and disrupted grain shipments. Brent crude is projected to average $91 per barrel in 2026, up from $69 in 2025, while food commodity prices are anticipated to climb 18% cumulatively over 2026-2027. The report warns that further escalation of conflicts or a strong El Niño could push prices even higher, potentially leading to a food crisis.",
+    "source": "World Bank",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU5JoTnroDrromX3ES466t4c6eIljMvAg9S0d5_S0YgQc2yge9fblLWddNI9lYkfw_QufHe6yedw_jp_sKVekMjU-C1_VJzkwRvfTDfyjZOGzSd16urJlNA313-l0Sm-JRzO0Ju4JUvB9j_yAGUA3GSWGv1Eh5NEqVAVuOzhH4Fr130HBZNvHznBKOFvEj1PJoe4z_MhaYX8I1QOg=",
+    "sourced_from": "full_article",
+    "source_tier": "tier1"
+  },
+  "key_insight": {
+    "summary": "This week's market dynamics present a complex outlook for Indonesia, largely dominated by the projected surge in global commodity prices and a hawkish-leaning Federal Reserve. The World Bank's forecast of a 23% rise in overall commodity prices, with energy up 32%, is a critical development. For Indonesia, a major commodity exporter, this could translate into higher export revenues for CPO, coal, and nickel, potentially improving the trade balance. However, the concurrent rise in oil prices, with Brent crude at $117.75/bbl, will significantly inflate Indonesia's fuel subsidy burden and contribute to domestic inflation, impacting household purchasing power and Bank Indonesia's monetary policy decisions. While the Fed held rates steady, strong US GDP growth and accelerating Core PCE inflation reinforce expectations for a December rate hike, which could strengthen the USD and exert depreciation pressure on the IDR, alongside potentially moderating foreign capital inflows into Indonesian bonds and equities. Indonesian investors should monitor the interplay between commodity price inflation, its impact on the state budget and domestic prices, and the rupiah's stability against a backdrop of global monetary tightening and robust US economic activity.",
+    "source": "World Bank, Kiplinger, Reuters (via Sharjah24.ae), U.S. Bureau of Economic Analysis (BEA)"
+  },
+  "source_department": "Research and Education Department",
+  "review_flags": [
+    "1 of 6 highlights are summary-only (full article could not be read)."
+  ],
+  "needs_review": false
+}
